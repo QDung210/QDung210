@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 📚 I am a student majoring in `Artificial Intelligence`.
+- 📚 I am an AI Engineer.
 - 🌱 I’m currently learning `MLOps` and `LLMOps`                
 
 ## 🌐 Socials:
